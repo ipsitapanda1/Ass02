@@ -1,0 +1,29 @@
+*{
+    background-color: aquamarine;
+
+}
+
+#diwali{
+    background-color: yellow;
+    color: red;
+}
+
+.card{
+    background-color: greenyellow;
+    height: 200px;
+    width: 200px;
+}
+
+
+/* p,
+h1,
+h2{
+    background-color: black;
+    color: white;
+} */
+
+
+/* h2{
+    background-color: bisque;
+    color: aqua;
+} */
